@@ -1,5 +1,7 @@
+[![Vincent V. Toscano](http://vflux.biz/assets/imgs/global/VincentVToscanoTM2015_300x300.png)](http://vflux.biz)
+
 # VVT_VideoResponsiveMaintainAspectRatioExamples
 Maintain aspect ratio of video element in a responsive fashion examples.
 
 # License  
-This project is licensed under the terms of the MIT license. Please see the full license in the file named LICENSE.md.
+This project is licensed under the terms of the MIT license. Please read the full license terms in the file named LICENSE.
